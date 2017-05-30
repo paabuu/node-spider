@@ -1,6 +1,6 @@
 var Bagpipe = require('bagpipe');
 var bagpipe = new Bagpipe(15);
-var path = require('path')
+var path = require('pat2h');
 
 var fs = require('fs')
 
